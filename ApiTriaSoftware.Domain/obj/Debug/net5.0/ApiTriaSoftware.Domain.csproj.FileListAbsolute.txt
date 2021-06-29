@@ -1,0 +1,15 @@
+C:\Users\felip\OneDrive\Documentos\Tria\ApiTriaSoftware\ApiTriaSoftware\ApiTriaSoftware.Domain\bin\Debug\net5.0\ApiTriaSoftware.Domain.deps.json
+C:\Users\felip\OneDrive\Documentos\Tria\ApiTriaSoftware\ApiTriaSoftware\ApiTriaSoftware.Domain\bin\Debug\net5.0\ApiTriaSoftware.Domain.runtimeconfig.json
+C:\Users\felip\OneDrive\Documentos\Tria\ApiTriaSoftware\ApiTriaSoftware\ApiTriaSoftware.Domain\bin\Debug\net5.0\ApiTriaSoftware.Domain.runtimeconfig.dev.json
+C:\Users\felip\OneDrive\Documentos\Tria\ApiTriaSoftware\ApiTriaSoftware\ApiTriaSoftware.Domain\bin\Debug\net5.0\ApiTriaSoftware.Domain.dll
+C:\Users\felip\OneDrive\Documentos\Tria\ApiTriaSoftware\ApiTriaSoftware\ApiTriaSoftware.Domain\bin\Debug\net5.0\ref\ApiTriaSoftware.Domain.dll
+C:\Users\felip\OneDrive\Documentos\Tria\ApiTriaSoftware\ApiTriaSoftware\ApiTriaSoftware.Domain\bin\Debug\net5.0\ApiTriaSoftware.Domain.pdb
+C:\Users\felip\OneDrive\Documentos\Tria\ApiTriaSoftware\ApiTriaSoftware\ApiTriaSoftware.Domain\obj\Debug\net5.0\ApiTriaSoftware.Domain.csprojAssemblyReference.cache
+C:\Users\felip\OneDrive\Documentos\Tria\ApiTriaSoftware\ApiTriaSoftware\ApiTriaSoftware.Domain\obj\Debug\net5.0\ApiTriaSoftware.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\OneDrive\Documentos\Tria\ApiTriaSoftware\ApiTriaSoftware\ApiTriaSoftware.Domain\obj\Debug\net5.0\ApiTriaSoftware.Domain.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Documentos\Tria\ApiTriaSoftware\ApiTriaSoftware\ApiTriaSoftware.Domain\obj\Debug\net5.0\ApiTriaSoftware.Domain.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Documentos\Tria\ApiTriaSoftware\ApiTriaSoftware\ApiTriaSoftware.Domain\obj\Debug\net5.0\ApiTriaSoftware.Domain.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Documentos\Tria\ApiTriaSoftware\ApiTriaSoftware\ApiTriaSoftware.Domain\obj\Debug\net5.0\ApiTriaSoftware.Domain.dll
+C:\Users\felip\OneDrive\Documentos\Tria\ApiTriaSoftware\ApiTriaSoftware\ApiTriaSoftware.Domain\obj\Debug\net5.0\ref\ApiTriaSoftware.Domain.dll
+C:\Users\felip\OneDrive\Documentos\Tria\ApiTriaSoftware\ApiTriaSoftware\ApiTriaSoftware.Domain\obj\Debug\net5.0\ApiTriaSoftware.Domain.pdb
+C:\Users\felip\OneDrive\Documentos\Tria\ApiTriaSoftware\ApiTriaSoftware\ApiTriaSoftware.Domain\obj\Debug\net5.0\ApiTriaSoftware.Domain.genruntimeconfig.cache
